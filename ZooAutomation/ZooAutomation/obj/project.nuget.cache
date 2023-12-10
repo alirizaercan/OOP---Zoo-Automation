@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gfqGDRRr8sVHaZbgk0h+Hp782WEvg9OOnEtFHzwTLdbl7dxGICibBtYvxD3KzYjooOUEyRwpsZLTiv2ajcosrA==",
+  "dgSpecHash": "BqnXjJ2CqeCIiVww8M/z8MJ+ORd5FjPE2tw20YSYtpDnRBl10AJ4p05v8J9DfVHHc+PlDvxPOp1JcflrNNwxow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Riza Ercan\\source\\repos\\ZooAutomation\\ZooAutomation\\ZooAutomation.csproj",
+  "projectFilePath": "C:\\Users\\Ali Riza Ercan\\Documents\\GitHub\\OOP---Zoo-Automation\\ZooAutomation\\ZooAutomation\\ZooAutomation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Riza Ercan\\.nuget\\packages\\microsoft.diagnostics.tracing.traceevent\\3.1.6\\microsoft.diagnostics.tracing.traceevent.3.1.6.nupkg.sha512",
     "C:\\Users\\Ali Riza Ercan\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

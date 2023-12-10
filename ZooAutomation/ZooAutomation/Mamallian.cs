@@ -14,7 +14,7 @@ namespace ZooAutomation
         }
         public override void Movement()
         {
-            Console.WriteLine("The mammal moves by walking");
+            Console.WriteLine("The mammal moves by walking and flying");
         }
     }
 }
