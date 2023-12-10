@@ -10,7 +10,7 @@ namespace ZooAutomation
     {
         public override void Work()
         {
-            Console.WriteLine("The manager handles administrative work.");
+            Console.WriteLine("The manager handles administrative workkk");
         }
         public override void GiveReport()
         {
